@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">amritadriver</string>
+    <string name="title_activity_maps">Amrita Driver </string>
+    <string name="enter_the_driver_email">Enter the driver email</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="login">login</string>
+    <string name="signout">signout</string>
+    <string name="new_driver">new driver</string>
+    <string name="todo">TODO</string>
+
+</resources>
